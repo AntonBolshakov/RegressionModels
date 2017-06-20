@@ -1,1 +1,1 @@
-# RegressionModels
+RegressionModels – библиотека для регрессионного анализа.
